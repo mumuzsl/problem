@@ -5,7 +5,7 @@
 # 文件结构
 - lc文件夹是放置LeetCode的题库上的解题代码。
 - lco文件夹是放置LeetCode上的《剑指Offer》上的题的代码。
-- lintcode文件夹放置LintCode上的题的解题代码。
+- lintcode文件夹放置LintCode上的解题代码。
 # 问题
 想要运行一个函数比较麻烦，可以通过命令
 ```flow js
