@@ -56,6 +56,5 @@ func main() {
 	//parseInt, _ := strconv.ParseInt("101", 2, 32)
 	//fmt.Println(parseInt)
 	lc.All()
-
 	//lintcode.All()
 }
